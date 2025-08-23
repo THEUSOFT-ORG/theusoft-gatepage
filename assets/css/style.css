@@ -435,6 +435,9 @@ footer {
 	/* Esconde o GitHub em mobile */
 	.social-icon.github {
 		display: none;
+	}/* Esconde o Linkedin em mobile */
+	.social-icon.linkedin {
+		display: none;
 	}
 
 	footer {
